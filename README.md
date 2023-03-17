@@ -1,6 +1,7 @@
 ### team_image_processing
 Basic Image Processing
-3. Project title: Basic image processing application with Git and Version Control
+
+Project title: Basic image processing application with Git and Version Control
 
 Requirements:
 
