@@ -31,19 +31,19 @@ After completing the task, create a pull request to the fc-ss23-git repository's
 Student 1
 
 Read an image
-Display the image
-Save the image
-Convert the image to grayscale
-Convert the image to binary
-Convert the image to HSV
+Display the image - DONE
+Save the image - DONE
+Convert the image to grayscale - DONE
+Convert the image to binary - DONE
+Convert the image to HSV - DONE
 Student 2
 
 Read an image
 Display the image
 Save the image
-Resize the image
-Crop the image
-Rotate the image
+Resize the image - DONE
+Crop the image - DONE
+Rotate the image - DONE
 Student 3
 
 Read an image
