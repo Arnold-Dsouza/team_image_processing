@@ -6,6 +6,7 @@ def displayImage(img, title):
     cv2.imshow(title, img)
     cv2.waitKey(2000)
     cv2.destroyAllWindows()
+    
 
 
 def convrtToGrayScale(img):
